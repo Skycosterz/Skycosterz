@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skycosterz
-- 👀 I’m interested in 
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning Python, Data science
 - 💞️ I’m looking to collaborate on Boston Dynamics
 - 📫 How to reach me ...
