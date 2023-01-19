@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skycosterz
+- 👋 Hi, I’m @Skycoster
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python, Data science
 - 💞️ I’m looking to collaborate on Boston Dynamics
