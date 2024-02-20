@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skycoster
-- 💞️ I’m looking to collaborate on Boston Dynamics
-- 📫 How to reach me ...
+-  I’m looking to collaborate on Boston Dynamics
+-  How to reach me ...
 
 <h3 align="center">A passionate frontend developer from México</h3>
 
