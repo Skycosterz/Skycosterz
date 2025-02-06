@@ -2,7 +2,7 @@
 -  I’m looking to collaborate on Boston Dynamics
 -  How to reach me ...
 
-<h3 align="center">A passionate AI/ML from México</h3>
+<h3 align="center">A passionate AI/ML Developer from México</h3>
 
 <p align="left">
 </p>
